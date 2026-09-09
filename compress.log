@@ -1,0 +1,20 @@
+/mnt/e/sjr/img-repo/compress.py:2: SyntaxWarning: invalid escape sequence '\s'
+  """批量压缩 E:\sjr\重拍 -> E:\sjr\重拍_web (1280px, JPEG q85)"""
+total jobs: 292
+[20/292] 7% done=20 skip=0 err=0 src=18MB dst=4.5MB eta=35s
+[40/292] 14% done=39 skip=1 err=0 src=68MB dst=8.1MB eta=31s
+[60/292] 21% done=59 skip=1 err=0 src=106MB dst=11.5MB eta=36s
+[80/292] 27% done=79 skip=1 err=0 src=122MB dst=15.6MB eta=31s
+[100/292] 34% done=99 skip=1 err=0 src=168MB dst=19.6MB eta=31s
+[120/292] 41% done=119 skip=1 err=0 src=230MB dst=24.9MB eta=30s
+[140/292] 48% done=139 skip=1 err=0 src=246MB dst=28.9MB eta=26s
+[160/292] 55% done=159 skip=1 err=0 src=292MB dst=32.5MB eta=23s
+[180/292] 62% done=179 skip=1 err=0 src=330MB dst=36.0MB eta=21s
+[200/292] 68% done=199 skip=1 err=0 src=342MB dst=39.2MB eta=16s
+[220/292] 75% done=219 skip=1 err=0 src=370MB dst=40.7MB eta=13s
+[240/292] 82% done=239 skip=1 err=0 src=388MB dst=42.4MB eta=10s
+[260/292] 89% done=259 skip=1 err=0 src=403MB dst=46.4MB eta=6s
+[280/292] 96% done=279 skip=1 err=0 src=441MB dst=49.0MB eta=2s
+[292/292] 100% done=291 skip=1 err=0 src=466MB dst=50.5MB eta=0s
+{"done": 291, "skipped": 1, "error": 0, "bytes_src": 465746798, "bytes_dst": 50533327}
+ALL_DONE in 54s
