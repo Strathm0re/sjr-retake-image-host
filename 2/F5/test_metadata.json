@@ -1,0 +1,284 @@
+{
+  "created_at": "2026-09-08T17:01:41+08:00",
+  "purpose": "F5 单孔 1× 焦段 4×7 扫描",
+  "well": "F5",
+  "well_center_mm": {
+    "x": 30.5,
+    "y": 19.0
+  },
+  "well_diameter_mm": 10.0,
+  "image_resolution_px": {
+    "width": 3840,
+    "height": 2160
+  },
+  "camera_field_of_view_mm": {
+    "x": 3.0,
+    "y": 1.6875
+  },
+  "overlap_ratio": 0.1,
+  "theoretical_coverage_mm": {
+    "x": 11.100000000000001,
+    "y": 10.6125
+  },
+  "local_grid": {
+    "x_count": 4,
+    "y_count": 7,
+    "x_step_mm": 2.7,
+    "y_step_mm": 1.4875,
+    "traversal": "row_serpentine"
+  },
+  "views": [
+    {
+      "grid_row": 0,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": -4.4625,
+      "target_x_mm": 26.45,
+      "target_y_mm": 14.5375,
+      "image_file": "F5_r00_c00_x-4.050_y-4.463.jpg"
+    },
+    {
+      "grid_row": 0,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": -4.4625,
+      "target_x_mm": 29.15,
+      "target_y_mm": 14.5375,
+      "image_file": "F5_r00_c01_x-1.350_y-4.463.jpg"
+    },
+    {
+      "grid_row": 0,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": -4.4625,
+      "target_x_mm": 31.85,
+      "target_y_mm": 14.5375,
+      "image_file": "F5_r00_c02_x+1.350_y-4.463.jpg"
+    },
+    {
+      "grid_row": 0,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": -4.4625,
+      "target_x_mm": 34.55,
+      "target_y_mm": 14.5375,
+      "image_file": "F5_r00_c03_x+4.050_y-4.463.jpg"
+    },
+    {
+      "grid_row": 1,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": -2.9750000000000005,
+      "target_x_mm": 34.55,
+      "target_y_mm": 16.025,
+      "image_file": "F5_r01_c03_x+4.050_y-2.975.jpg"
+    },
+    {
+      "grid_row": 1,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": -2.9750000000000005,
+      "target_x_mm": 31.85,
+      "target_y_mm": 16.025,
+      "image_file": "F5_r01_c02_x+1.350_y-2.975.jpg"
+    },
+    {
+      "grid_row": 1,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": -2.9750000000000005,
+      "target_x_mm": 29.15,
+      "target_y_mm": 16.025,
+      "image_file": "F5_r01_c01_x-1.350_y-2.975.jpg"
+    },
+    {
+      "grid_row": 1,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": -2.9750000000000005,
+      "target_x_mm": 26.45,
+      "target_y_mm": 16.025,
+      "image_file": "F5_r01_c00_x-4.050_y-2.975.jpg"
+    },
+    {
+      "grid_row": 2,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": -1.4875000000000003,
+      "target_x_mm": 26.45,
+      "target_y_mm": 17.5125,
+      "image_file": "F5_r02_c00_x-4.050_y-1.488.jpg"
+    },
+    {
+      "grid_row": 2,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": -1.4875000000000003,
+      "target_x_mm": 29.15,
+      "target_y_mm": 17.5125,
+      "image_file": "F5_r02_c01_x-1.350_y-1.488.jpg"
+    },
+    {
+      "grid_row": 2,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": -1.4875000000000003,
+      "target_x_mm": 31.85,
+      "target_y_mm": 17.5125,
+      "image_file": "F5_r02_c02_x+1.350_y-1.488.jpg"
+    },
+    {
+      "grid_row": 2,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": -1.4875000000000003,
+      "target_x_mm": 34.55,
+      "target_y_mm": 17.5125,
+      "image_file": "F5_r02_c03_x+4.050_y-1.488.jpg"
+    },
+    {
+      "grid_row": 3,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": 0.0,
+      "target_x_mm": 34.55,
+      "target_y_mm": 19.0,
+      "image_file": "F5_r03_c03_x+4.050_y+0.000.jpg"
+    },
+    {
+      "grid_row": 3,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": 0.0,
+      "target_x_mm": 31.85,
+      "target_y_mm": 19.0,
+      "image_file": "F5_r03_c02_x+1.350_y+0.000.jpg"
+    },
+    {
+      "grid_row": 3,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": 0.0,
+      "target_x_mm": 29.15,
+      "target_y_mm": 19.0,
+      "image_file": "F5_r03_c01_x-1.350_y+0.000.jpg"
+    },
+    {
+      "grid_row": 3,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": 0.0,
+      "target_x_mm": 26.45,
+      "target_y_mm": 19.0,
+      "image_file": "F5_r03_c00_x-4.050_y+0.000.jpg"
+    },
+    {
+      "grid_row": 4,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": 1.4874999999999998,
+      "target_x_mm": 26.45,
+      "target_y_mm": 20.4875,
+      "image_file": "F5_r04_c00_x-4.050_y+1.487.jpg"
+    },
+    {
+      "grid_row": 4,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": 1.4874999999999998,
+      "target_x_mm": 29.15,
+      "target_y_mm": 20.4875,
+      "image_file": "F5_r04_c01_x-1.350_y+1.487.jpg"
+    },
+    {
+      "grid_row": 4,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": 1.4874999999999998,
+      "target_x_mm": 31.85,
+      "target_y_mm": 20.4875,
+      "image_file": "F5_r04_c02_x+1.350_y+1.487.jpg"
+    },
+    {
+      "grid_row": 4,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": 1.4874999999999998,
+      "target_x_mm": 34.55,
+      "target_y_mm": 20.4875,
+      "image_file": "F5_r04_c03_x+4.050_y+1.487.jpg"
+    },
+    {
+      "grid_row": 5,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": 2.9749999999999996,
+      "target_x_mm": 34.55,
+      "target_y_mm": 21.975,
+      "image_file": "F5_r05_c03_x+4.050_y+2.975.jpg"
+    },
+    {
+      "grid_row": 5,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": 2.9749999999999996,
+      "target_x_mm": 31.85,
+      "target_y_mm": 21.975,
+      "image_file": "F5_r05_c02_x+1.350_y+2.975.jpg"
+    },
+    {
+      "grid_row": 5,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": 2.9749999999999996,
+      "target_x_mm": 29.15,
+      "target_y_mm": 21.975,
+      "image_file": "F5_r05_c01_x-1.350_y+2.975.jpg"
+    },
+    {
+      "grid_row": 5,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": 2.9749999999999996,
+      "target_x_mm": 26.45,
+      "target_y_mm": 21.975,
+      "image_file": "F5_r05_c00_x-4.050_y+2.975.jpg"
+    },
+    {
+      "grid_row": 6,
+      "grid_col": 0,
+      "offset_x_mm": -4.050000000000001,
+      "offset_y_mm": 4.4625,
+      "target_x_mm": 26.45,
+      "target_y_mm": 23.4625,
+      "image_file": "F5_r06_c00_x-4.050_y+4.463.jpg"
+    },
+    {
+      "grid_row": 6,
+      "grid_col": 1,
+      "offset_x_mm": -1.3500000000000005,
+      "offset_y_mm": 4.4625,
+      "target_x_mm": 29.15,
+      "target_y_mm": 23.4625,
+      "image_file": "F5_r06_c01_x-1.350_y+4.463.jpg"
+    },
+    {
+      "grid_row": 6,
+      "grid_col": 2,
+      "offset_x_mm": 1.3499999999999996,
+      "offset_y_mm": 4.4625,
+      "target_x_mm": 31.85,
+      "target_y_mm": 23.4625,
+      "image_file": "F5_r06_c02_x+1.350_y+4.463.jpg"
+    },
+    {
+      "grid_row": 6,
+      "grid_col": 3,
+      "offset_x_mm": 4.050000000000001,
+      "offset_y_mm": 4.4625,
+      "target_x_mm": 34.55,
+      "target_y_mm": 23.4625,
+      "image_file": "F5_r06_c03_x+4.050_y+4.463.jpg"
+    }
+  ]
+}
